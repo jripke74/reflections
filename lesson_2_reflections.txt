@@ -33,3 +33,8 @@ the diagram the way we do?
 The result of merging two branches together is basically combining all 
 commits.
 
+Automatic vs. Manual Merging
+
+What are the pros and cons of Git's automatic merging vs. always doing merges 
+manually?
+Gives more flexibility in making sure the right code is getting merged.
