@@ -12,3 +12,11 @@ How can you use the staging area to make sure you have one commit per logical
 change?
 You can check the file in the staging area by using command git diff --staged 
 to see what changes where made.
+
+Lesson 2 > Reflect: When to Use Branches
+
+What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+If you had an idea you where not sure you can use a branch to test it out. Or 
+if you wanted to do some experimenting. Or if you wanted to go multiple 
+directions with your program. 
