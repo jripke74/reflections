@@ -8,3 +8,7 @@ repository? What value do you think it offers?
 The staging area allows the changes to be tracked so you can do a commit on 
 the file(s). It allows you to work track specific files.
 
+How can you use the staging area to make sure you have one commit per logical 
+change?
+You can check the file in the staging area by using command git diff --staged 
+to see what changes where made.
