@@ -24,4 +24,12 @@ directions with your program.
 Lesson 2 > Visualizing with Diagrams
 
 How do the diagrams help you visualize the branch structure?
-It allows you to see where those branches go and what commits they can use. 
+It allows you to see where those branches go and what commits they can use.
+
+Lesson 2 > Merging Two Branches
+
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+The result of merging two branches together is basically combining all 
+commits.
+
