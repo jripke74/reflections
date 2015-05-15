@@ -12,3 +12,8 @@ direction in your code or if you want to try something.
 What is the benefit of having a copy of the last known state of the remote stored 
 locally?
 The benefit is a backup and allows others to see.
+
+How would you collaborate without Git or GitHub? What would be easier, and what 
+wold be harder?
+Probably with a share drive or email. It would probably be less confusing but
+harder to track changes.
